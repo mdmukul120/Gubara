@@ -4,7 +4,7 @@ import time
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://virallink2.site/"
+BASE_URL = "https://ftp.ctgfun.com/"
 
 def extract_media_data():
     results = []
